@@ -1,5 +1,5 @@
 # blinky-pcb
-![pcb heel 3d view](kicad_3Dview.png)
+![pcb heel 3d view](images/kicad_3Dview.png)
 ## Components
 
 - x16+ Red LEDs
