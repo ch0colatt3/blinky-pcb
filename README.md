@@ -1,6 +1,6 @@
 # blinky-pcb
 
-##Components
+## Components
 
 - x16+ Red LEDs
 - x1 555 Timer IC
